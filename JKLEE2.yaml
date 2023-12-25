@@ -16,6 +16,5 @@ members:
 - King
 - King2(GITHUB)
 - King3(Local)
-
-
-fetch: this
+- King4(Local2)
+- King5(Local3)
